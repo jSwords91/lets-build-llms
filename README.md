@@ -8,3 +8,7 @@ I will endeavour to add a training loop along with a sample dataset too to showc
 # Implementations
 
 - Gemma 270m Instruct
+
+# References
+
+Sebastian Raschka's work and in particular his books are incredibly helpful. Please check out: https://github.com/rasbt
