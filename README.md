@@ -8,6 +8,7 @@ I will endeavour to add a training loop along with a sample dataset too to showc
 # Implementations
 
 - Gemma 270m Instruct
+- EmbeddingGemma 2 (text encoder): `python -m embeddinggemma.embeddinggemma2 --query "What causes the northern lights?"`. A parity test against the Hugging Face reference is in `embeddinggemma/test_parity.py`.
 
 # References
 
